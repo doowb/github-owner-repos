@@ -1,4 +1,4 @@
-# github-owner-repos [![NPM version](https://img.shields.io/npm/v/github-owner-repos.svg?style=flat)](https://www.npmjs.com/package/github-owner-repos) [![NPM downloads](https://img.shields.io/npm/dm/github-owner-repos.svg?style=flat)](https://npmjs.org/package/github-owner-repos)
+# github-owner-repos [![NPM version](https://img.shields.io/npm/v/github-owner-repos.svg?style=flat)](https://www.npmjs.com/package/github-owner-repos) [![NPM downloads](https://img.shields.io/npm/dm/github-owner-repos.svg?style=flat)](https://npmjs.org/package/github-owner-repos) [![Build Status](https://img.shields.io/travis/doowb/github-owner-repos.svg?style=flat)](https://travis-ci.org/doowb/github-owner-repos)
 
 Get the github repositories for the specified owner or array of owners.
 
