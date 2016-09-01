@@ -20,13 +20,59 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [
-    "github",
-    "stars"
-  ],
   "dependencies": {
     "co": "^4.6.0",
     "extend-shallow": "^2.0.1",
     "github-base": "^0.4.1"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.10"
+  },
+  "keywords": [
+    "github",
+    "org",
+    "org-github-repositories",
+    "org-repos",
+    "org-repositories",
+    "organization",
+    "organization-repositories",
+    "organizations",
+    "organziation",
+    "organziation-github-repositories",
+    "orgs",
+    "owner",
+    "owner-github-repositories",
+    "owner-repositories",
+    "owners",
+    "repos",
+    "repositories",
+    "stars",
+    "user",
+    "user-github-repositories",
+    "user-repos",
+    "user-repositories",
+    "users"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "github-base"
+      ]
+    },
+    "reflinks": [
+      "verb",
+      "verb-generate-readme"
+    ]
   }
 }
