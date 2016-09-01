@@ -1,6 +1,6 @@
-# Contributing to github-stars
+# Contributing to github-owner-repos
 
-First and foremost, thank you! We appreciate that you want to contribute to github-stars, your time is valuable, and your contributions mean a lot to us.
+First and foremost, thank you! We appreciate that you want to contribute to github-owner-repos, your time is valuable, and your contributions mean a lot to us.
 
 **What does "contributing" mean?**
 
@@ -12,14 +12,14 @@ Creating an issue is the simplest form of contributing to a project. But there a
 
 If you'd like to learn more about contributing in general, the [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing) has a lot of useful information.
 
-**Showing support for github-stars**
+**Showing support for github-owner-repos**
 
 Please keep in mind that open source software is built by people like you, who spend their free time creating things the rest the community can use.
 
-Don't have time to contribute? No worries, here are some other ways to show your support for github-stars:
+Don't have time to contribute? No worries, here are some other ways to show your support for github-owner-repos:
 
-- star the [project](https://github.com/doowb/github-stars)
-- tweet your support for github-stars
+- star the [project](https://github.com/doowb/github-owner-repos)
+- tweet your support for github-owner-repos
 
 ## Issues
 
@@ -37,7 +37,7 @@ Try to follow these guidelines
 
 Please be as descriptive as possible when creating an issue. Give us the information we need to successfully answer your question or address your issue by answering the following in your issue:
 
-- **version**: please note the version of github-stars are you using
+- **version**: please note the version of github-owner-repos are you using
 - **extensions, plugins, helpers, etc** (if applicable): please list any extensions you're using
 - **error messages**: please paste any error messages into the issue, or a [gist](https://gist.github.com/)
 
@@ -54,4 +54,4 @@ Here are some tips for creating idiomatic issues. Taking just a little bit extra
 
 [node-glob]: https://github.com/isaacs/node-glob
 [micromatch]: https://github.com/jonschlinkert/micromatch
-[so]: http://stackoverflow.com/questions/tagged/github-stars
+[so]: http://stackoverflow.com/questions/tagged/github-owner-repos
